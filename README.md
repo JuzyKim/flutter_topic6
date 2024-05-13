@@ -3,14 +3,11 @@
 A new Flutter project.
 
 ## Getting Started
+**RegisterForm App**
 
-This project is a starting point for a Flutter application.
+**Description:**
 
-A few resources to get you started if this is your first Flutter project:
+RegisterForm is a simple Flutter application that allows users to register by filling out a form. Users input their name, phone number, email, country, life story, and password. The app validates the input in real-time and provides feedback. After successful registration, users receive a confirmation message.
+![Снимок экрана 2024-05-13 220621](https://github.com/JuzyKim/flutter_topic6/assets/144226513/2a98c431-c50b-45ce-bd75-4594798e3d7b)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
